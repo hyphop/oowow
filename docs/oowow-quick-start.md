@@ -1,3 +1,5 @@
+![oowow](media/oowow-logo.svg)
+
 # OOWOW Quickstart
 
 ## What is OOWOW?
@@ -17,9 +19,8 @@ The OOWOW wizard will guide you to install a new OS in just 4 steps, and it auto
 + Select OS installation image
 + Download and install OS into your device
 
-Wizard Usage Example:
-https://dl.khadas.com/.temp/oowow/screencast/quick-start/-gallery?play=loop
+Wizard Usage Example: [Quick start](../screencasts/quick-start/-gallery?play=loop)
 
 Tip: If you need other features, exit from the wizard to the main menu.
 
-Continue reading about OOWOW > [User Manual](https://github.com/hyphop/oowow/blob/main/docs/oowow-user-manual.md)
+Continue reading about OOWOW > [User Manual](oowow-user-manual.md)

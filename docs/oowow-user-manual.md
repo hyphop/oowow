@@ -1,4 +1,4 @@
-![oowow](https://raw.githubusercontent.com/hyphop/oowow/main/files/oowow.svg)
+![oowow](media/oowow-logo.svg)
 
 # OOWOW User Manual
 
@@ -62,29 +62,35 @@ Tip: All shortcut events will be displayed on OOWOW status bar and indicated by 
 
 ## LED Indication Table
 Most system events have corresponding LED indications:
-* Device starts or reboots: White solid
-* Device power off: Red solid
-* System start in default mode: White heartbeat
-* Network connected: White solid
-* HotSpot mode activated: White fast blinking
-* HotSpot mode ready: White solid
-* HotSpot client pending: White and red blinking
-* HotSpot client accepted: White slow blinking
-* HotSpot mode deactivated: White heartbeat
-* Easy Wi-Fi activated: White blinking
-* Easy Wi-Fi awaits connection: White slow blinking
-* Easy Wi-Fi deactivated: White heartbeat
-* Firewall block incoming: Red breathing
-* Firewall allow incoming: White solid, red off
-* Firewall disabled: Red blinking
-* Image installation progress: Red & white blinking
-* Image installation done: White solid, red off
+
+| Events | Indications |
+| :-- | :-- |
+Device starts or reboots | White solid
+Device power off | Red solid
+System start in default mode | White heartbeat
+Network connected | White solid
+HotSpot mode activated | White fast blinking
+HotSpot mode ready | White solid
+HotSpot client pending | White and red blinking
+HotSpot client accepted | White slow blinking
+HotSpot mode deactivated | White heartbeat
+Easy Wi-Fi activated | White blinking
+Easy Wi-Fi awaits connection | White slow blinking
+Easy Wi-Fi deactivated | White heartbeat
+Firewall block incoming | Red breathing
+Firewall allow incoming | White solid, red off
+Firewall disabled | Red blinking
+Image installation progress | Red & white blinking
+Image installation done | White solid, red off
 
 Multifunctional modes:
-* Hotspot: White off
-* Firewall block incoming: White solid, red off
-* Firewall allow incoming: White & red solid
-* Cancel: White blinking
+
+| Events | Indications |
+| :-- | :-- |
+Hotspot | White off
+Firewall block incoming |White solid, red off
+Firewall allow incoming | White & red solid
+Cancel | White blinking
 
 # Interfaces
 
@@ -238,7 +244,7 @@ _Network -> Firewall Mode:_
 * block - Block all incoming connections **SECURE**
 * allow - Allow incoming connections from local networks **RECOMMENDED*
 * disabled -  Allow all connections, firewall disabled **DANGER**
-  
+
 Tips:
    * By default, remote access is blocked by the firewall
    * Easily configure the firewall with the hardware button shortcuts 
@@ -322,5 +328,3 @@ oowow - infinity level wow (will be a new 77th word in the English dictionary)
 Tips:
 * https://en.wiktionary.org/wiki/wow
 * https://www.crosswordsolver.org/words-starting-with-oo
-
-_LAST EDIT: Fri 22 Apr 2022 02:56:29 PM CST_
