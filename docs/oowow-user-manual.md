@@ -3,28 +3,34 @@
 # OOWOW User Manual
 
 ## What is OOWOW?
-OOWOW is an embedded service (integrated into your device) - it can be run at any time if you need to perform essential maintenance services on your device.
 
 OOWOW is an embedded service (integrated into your device) - it can be
 run at any time if you need to perform essential maintenance services on
 your device.
 
 ## About VIM4
-VIM4 is the first device from Khadas that includes the OOWOW embedded service. Since VIM4 comes without any pre-installed OS, users can use OOWOW to select and install their preferred OS.
+
+VIM4 is the first device from Khadas that includes the OOWOW embedded
+service. Since VIM4 comes without any pre-installed OS, users can use
+OOWOW to select and install their preferred OS.
 
 ## OS Delivery
-OOWOW provides rapid online OS download and installation, which will improve quality of life for single board computer users - with OOWOW, you can install / reinstall your preferred OS in just 2-3 minutes.
+
+OOWOW provides rapid online OS download and installation, which will
+improve quality of life for single board computer users - with OOWOW, you
+can install / reinstall your preferred OS in just 2-3 minutes.
 
 ## OOWOW Wizard
-The OOWOW wizard will guide you to install a new OS in just 4 steps, and it automatically starts if your device storage is empty.
+
+The OOWOW wizard will guide you to install a new OS in just 4 steps, and
+it automatically starts if your device storage is empty.
 
 * Connect to internet over Wi-Fi or Ethernet
 * Display OS images for your device
 * Select OS installation image
 * Download and install OS into your device
 
-Wizard Usage Example:
-https://dl.khadas.com/.temp/oowow/screencast/quick-start/-gallery?play=loop
+Wizard Usage Example: [quick-start](../screencasts/quick-start/-gallery?play=loop)
 
 Tip: If you need other features, exit from the wizard to the main menu.
 
@@ -37,7 +43,7 @@ Tip: If you need other features, exit from the wizard to the main menu.
 * Device hardware testing
 * Online script collection
 * Rescue shell
-* Developer and advanced features 
+* Developer and advanced features
 
 # Hardware
 
@@ -45,12 +51,12 @@ Tip: If you need other features, exit from the wizard to the main menu.
 You can use the three physical buttons on your device to interact directly with the OOWOW system, we will describe them in more detail within the next section.
 
 * RESET - reset device
-* FUNCTION - multi functions 
-* POWER - multi functions 
+* FUNCTION - multi functions
+* POWER - multi functions
 
 ## VIM4 Button Shortcuts
 
-* Boot OOWOW - hold FUNCTION and short press RESET 
+* Boot OOWOW - hold FUNCTION and short press RESET
 * Toggle Easy Wi-Fi - short press POWER button
 * Toggle Hotspot -  short press FUNCTION button
 * Accept Hotspot client  - short press POWER button
@@ -111,7 +117,7 @@ A HDMI screen and keyboard is the primary interface modality.
 ### Web access
 Examples:
 * http://DEVICE_IP or http://DEVICE_HOST_NAME - device page
-* http://vim4-xxxxx.local/x/ - welcome page 
+* http://vim4-xxxxx.local/x/ - welcome page
 * http://vim4-xxxxx.local/x/control - main menu
 
 Tip: Access can be restricted by the Firewall
@@ -195,7 +201,7 @@ _Network -> Wi-Fi -> Wi-Fi Select Connection_
 Tips:
 * Wi-Fi configurations are automatically saved and will persist after rebooting
 * All system configurations will be saved only after a planned shutdown
-http://dl.khadas.com/.temp/oowow/screencast/howto-save-setting/-gallery?play=auto&delay=2
+[how-to save setting](../screencasts/howto-save-setting/-gallery?play=auto&delay=2)
 
 ## Easy Wi-Fi
 
@@ -259,16 +265,16 @@ Tips:
 ## Usage examples
 
 ### Configure Wi-Fi with Wizard
-http://dl.khadas.com/.temp/oowow/screencast/wizard-wifi-usage/-gallery?play=loop 
+[wizard-wifi-usage](screencasts/wizard-wifi-usage/-gallery?play=loop)
 
 ### Wi-Fi connection
-http://dl.khadas.com/.temp/oowow/screencast/network-wifi-setup/-gallery?play=loop
+[network-wifi-setup](screencast/network-wifi-setup/-gallery?play=loop)
 
 ### Easy Wi-Fi connection
-http://dl.khadas.com/.temp/oowow/screencast/easy-wifi-mode/-gallery 
+[easy-wifi-mode](screencast/easy-wifi-mode/-gallery)
 
 ### Hotspot mode
-http://dl.khadas.com/.temp/oowow/screencast/hotspot-mode/-gallery 
+[hotspot-mode](screencast/hotspot-mode/-gallery)
 
 ### Hotspot mode + ethernet LAN
 Internet access provided by LAN ethernet cable, user device access provided by WLAN hotspot
