@@ -5,6 +5,10 @@
 ## What is OOWOW?
 OOWOW is an embedded service (integrated into your device) - it can be run at any time if you need to perform essential maintenance services on your device.
 
+OOWOW is an embedded service (integrated into your device) - it can be
+run at any time if you need to perform essential maintenance services on
+your device.
+
 ## About VIM4
 VIM4 is the first device from Khadas that includes the OOWOW embedded service. Since VIM4 comes without any pre-installed OS, users can use OOWOW to select and install their preferred OS.
 
@@ -242,7 +246,7 @@ Connect your device directly to your computer using a USB cable. This feature wi
 _Network -> Firewall Mode:_
 
 * block - Block all incoming connections **SECURE**
-* allow - Allow incoming connections from local networks **RECOMMENDED*
+* allow - Allow incoming connections from local networks **RECOMMENDED**
 * disabled -  Allow all connections, firewall disabled **DANGER**
 
 Tips:
