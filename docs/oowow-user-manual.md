@@ -371,7 +371,7 @@ the market today and into the future.
 
 Live life easily with OOWOW!
 
-## What is the meaning of “OOWOW”?
+## What is the meaning of "OOWOW"?
 
 oowow - infinity level wow (will be a new 77th word in the English dictionary)
 
