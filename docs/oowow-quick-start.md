@@ -1,5 +1,3 @@
-![oowow](media/oowow-logo.svg)
-
 # OOWOW Quickstart
 
 ## What is OOWOW?

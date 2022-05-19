@@ -1,5 +1,3 @@
-![oowow](media/oowow-logo.svg)
-
 # OOWOW How-to
 
 ## Resolve boot-up problem
