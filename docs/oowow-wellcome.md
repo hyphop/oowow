@@ -1,5 +1,3 @@
-![oowow](media/logo.svg)
-
 # Wellcome to OOWOW
 
 OOWOW, a standalone embedded service for seamless online OS delivery,
@@ -9,3 +7,5 @@ device maintenance, and much more!
 + [OOWOW user manual](oowow-user-manual.md)
 + [OOWOW how to](oowow-how-to.md)
 + [OOWOW devices reference table](oowow-devices-reference-table.md)
+
+![oowow](media/logo.svg)

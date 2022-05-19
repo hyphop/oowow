@@ -389,3 +389,5 @@ oowow - infinity level wow (will be a new 77th word in the English dictionary)
 Tips:
 * https://en.wiktionary.org/wiki/wow
 * https://www.crosswordsolver.org/words-starting-with-oo
+
+![oowow](media/logo.svg)
