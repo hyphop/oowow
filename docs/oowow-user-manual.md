@@ -1,5 +1,3 @@
-![oowow](media/oowow-logo.svg)
-
 # OOWOW User Manual
 
 ## What is OOWOW?
@@ -106,9 +104,19 @@ Multifunctional modes:
 | Events | Indications |
 | :-- | :-- |
 Hotspot | White off
-Firewall block incoming |White solid, red off
+Firewall block incoming | White solid, red off
 Firewall allow incoming | White & red solid
 Cancel | White blinking
+
+Boot stages:
+
+| Events | Indications |
+| :-- | :-- |
+Early board start | White & red off
+U-boot start | White solid
+OOWOW loading | White solid, red heartbeat
+OOWOW fail | White & red solid
+OOWOW starting | White solid, red off
 
 # Interfaces
 
@@ -119,7 +127,7 @@ status line) for HDMI, WEB, SSH, Serial-UART, etc (all interfaces work
 simultaneously)
 
 ### Navigation
-* Keys: [0-9] [A-Z] [⇦] [⇨] [⇧] [⇩] [Space] [Enter] [Esc] [Tab] [0]
+* Keys: [0-9] [A-Z] [⇦] [⇨] [⇧] [⇩] [Space] [Enter] [Esc] [Tab]
 * Mouse: select menu items and press buttons
 
 ### HDMI + keyboard
