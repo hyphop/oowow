@@ -15,3 +15,5 @@ Descriptions:
 + SD card - bootable from SD card
 + Embedded - ready for standalone usage as embedded service (SPI-Flash)
 + WIP - work in progress
+
+Updated: Thu 19 May 2022 03:09:45 PM CST
