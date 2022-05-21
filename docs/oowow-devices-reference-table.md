@@ -1,15 +1,15 @@
 # OOWOW devices reference table
 
-| Device | Support state| Embedded | SD card | Wi-Fi   | Ethernet
-| :--    | :--          | :--      | :--     | :--     |
-| VIM4   | Full         | Yes      | Yes     | [Full]  | Yes
-| VIM3L  | Partially    | No       | Yes     | [Basic] | Yes
-| VIM3   | WIP          | No       | Yes     | [Basic] | Yes
-| VIM2   | WIP          | No       | Yes     | [Basic] | Yes
-| VIM1   | WIP          | No       | Yes     | [Basic] | Yes
-| VIM1S  | Expected     | -        | -       |         |
-| Edge   | WIP          | No       | Yes     |         |
-| Edge2  | Expected     | -        | -       |         |
+| Device | Support state| Embedded | SD card | Wi-Fi   | Ethernet |
+| :--    | :--          | :--      | :--     | :--     | :--      |
+| VIM4   | Full         | Yes      | Yes     | [Full]  | Yes      |
+| VIM3L  | Partially    | No       | Yes     | [Basic] | Yes      |
+| VIM3   | WIP          | No       | Yes     | [Basic] | Yes      |
+| VIM2   | WIP          | No       | Yes     | [Basic] | Yes      |
+| VIM1   | WIP          | No       | Yes     | [Basic] | Yes      |
+| VIM1S  | Expected     | -        | -       |         |          |
+| Edge   | WIP          | No       | Yes     |         |          |
+| Edge2  | Expected     | -        | -       |         |          |
 
 Descriptions:
 + **SD card** - bootable from SD card
