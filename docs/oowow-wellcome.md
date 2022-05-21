@@ -8,4 +8,4 @@ device maintenance, and much more!
 + [OOWOW how to](oowow-how-to.md)
 + [OOWOW devices reference table](oowow-devices-reference-table.md)
 
-![oowow](media/logo.svg)
+![oowow](media/oowow-logo-alpha.svg)
