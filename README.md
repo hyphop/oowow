@@ -12,4 +12,4 @@ device maintenance, and much more!
 - Screencasts:   [screencasts/](screencasts/)
 - Firmware:      [system/](system/)
 
-![OOWOW](docs/media/oowow-logo.svg)
+![OOWOW](docs/media/logo.svg)

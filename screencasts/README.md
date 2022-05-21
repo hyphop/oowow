@@ -7,4 +7,4 @@ device maintenance, and much more!
 - Documentation: [docs/](../docs/)
 - Firmware:      [system/](../system/)
 
-![OOWOW](../docs/media/oowow-logo.svg)
+![OOWOW](../docs/media/logo.svg)
