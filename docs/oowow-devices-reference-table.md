@@ -24,5 +24,5 @@ Client and hotspot mode can used at same times
 
 Only client or hotspot mode works stable same time
 
-[Basic]: <#wi-fi-basic-mode> "Only client or hotspot mode works stable same time"
+[Basic]: <#wi-fi-basic-mode> "Only client or hotspot mode works at same time"
 [Full]:  <#wi-fi-full-mode> "Client or hotspot mode can works at same time"
