@@ -1,4 +1,4 @@
-# Wellcome to OOWOW
+# Welcome to OOWOW
 
 OOWOW, a standalone embedded service for seamless online OS delivery,
 device maintenance, and much more!
