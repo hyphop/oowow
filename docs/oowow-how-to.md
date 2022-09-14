@@ -11,18 +11,22 @@ if Boot OOWOW doesn't works via hold (FUNCTION) and short press (RESET)
 
 For same cases if OOWOW can't bootup automaticly or via [button shortcut](oowow-user-manual.md#vim4-button-shortcuts)
 
-* download http://dl.khadas.com/products/oowow/system/vim4-oowow-latest-spi-upgrade-sd.img.gz
-* write image vim4-oowow-latest-spi-upgrade-sd.img.gz to SD-card
+* download XXX-oowow-latest-spi-upgrade-sd.img.gz from http://dl.khadas.com/products/oowow/system/
+* write image XXX-oowow-latest-spi-upgrade-sd.img.gz to SD-card
 * boot-up from SD-card and wait upgrade process will be complited
 * remove SD-card and reboot device
+
+NOTE: replace XXX to right board name
 
 ## Boot-up OOWOW from SD-card
 
 For same cases if embedded OOWOW can't bootup from SPI-Flash. OOWOW can be started from SD-card anytime.
 
-* download http://dl.khadas.com/products/oowow/system/vim4-oowow-latest-sd.img.gz
-* write image vim4-oowow-latest-sd.img.gz to SD-card
+* download XXX-oowow-latest-sd.img.gz from http://dl.khadas.com/products/oowow/system/
+* write image XXX-oowow-latest-sd.img.gz to SD-card
 * boot-up from SD-card
+
+NOTE: replace XXX to right board name
 
 ## write custom OS image into eMMC from removable storage
 
@@ -39,13 +43,23 @@ NOTE: supported images
 
 ## Install online OS image without ethernet
 
-wip...
+All devices have on-board Wi-Fi module, also can used for for Internet access.
+
+ + Configure Wi-Fi connection one time / automaticly will be used next time
+ + or can use [Easy Wi-Fi](oowow-user-manual.md#easy-wi-fi) mode
 
 ## Headless usage
 
-[Easy Wi-Fi](oowow-user-manual.md#easy-wi-fi)
-wip...
+OOWOW easily can used without display and keyboards.
+
++ [Easy Wi-Fi](oowow-user-manual.md#easy-wi-fi)
++ [Hot-Spot mode](oowow-user-manual.md#hotspot)
 
 ## OOWOW and Smartphone
 
-wip...
+OOWOW easily can controlled by smatphone
+
++ [Easy Wi-Fi](oowow-user-manual.md#easy-wi-fi)
++ [Hot-Spot mode](oowow-user-manual.md#hotspot)
++ [Hot-spot QR-code](oowow-user-manual.md#hotspot-qr-code)
++ [Web-Access QR-code](oowow-user-manual.md#web-access-qr-code)
