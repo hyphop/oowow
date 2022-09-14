@@ -11,22 +11,22 @@ if Boot OOWOW doesn't works via hold (FUNCTION) and short press (RESET)
 
 For same cases if OOWOW can't bootup automaticly or via [button shortcut](oowow-user-manual.md#vim4-button-shortcuts)
 
-* download XXX-oowow-latest-spi-upgrade-sd.img.gz from http://dl.khadas.com/products/oowow/system/
-* write image XXX-oowow-latest-spi-upgrade-sd.img.gz to SD-card
+* download `XXX-oowow-latest-spi-upgrade-sd.img.gz` from http://dl.khadas.com/products/oowow/system/
+* write image `XXX-oowow-latest-spi-upgrade-sd.img.gz` to SD-card
 * boot-up from SD-card and wait upgrade process will be complited
 * remove SD-card and reboot device
 
-NOTE: replace XXX to right board name
+NOTE: replace XXX to right board name `vim4 edge2 vim1s ...`
 
 ## Boot-up OOWOW from SD-card
 
 For same cases if embedded OOWOW can't bootup from SPI-Flash. OOWOW can be started from SD-card anytime.
 
-* download XXX-oowow-latest-sd.img.gz from http://dl.khadas.com/products/oowow/system/
-* write image XXX-oowow-latest-sd.img.gz to SD-card
+* download `XXX-oowow-latest-sd.img.gz` from http://dl.khadas.com/products/oowow/system/
+* write image `XXX-oowow-latest-sd.img.gz` to SD-card
 * boot-up from SD-card
 
-NOTE: replace XXX to right board name
+NOTE: replace XXX to right board name `vim4 edge2 vim1s ...`
 
 ## write custom OS image into eMMC from removable storage
 
@@ -38,8 +38,8 @@ NOTE: replace XXX to right board name
 
 NOTE: supported images
 
-+ raw images `dd` suitable - .img
-+ compressed images img.xz lzma , img.gz gzip, img.zst zstd
++ raw images `dd` suitable - `.img`
++ compressed images `.img.xz` lzma , `.img.gz` gzip, `.img.zst` zstd
 
 ## Install online OS image without ethernet
 
