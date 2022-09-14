@@ -24,6 +24,19 @@ For same cases if embedded OOWOW can't bootup from SPI-Flash. OOWOW can be start
 * write image vim4-oowow-latest-sd.img.gz to SD-card
 * boot-up from SD-card
 
+## write custom OS image into eMMC from removable storage
+
++ copy your OS image into any removable storage SD / USB Flash , etc (formatted by exfat or ext2/3/4 or fat)
++ start oowow by press FUNCTION + RESET
++ exit from wizard
++ plug removable storage with OS image
++ choose this image to write by __menu -> Write image to eMMC __ and up to .. mounts
+
+NOTE: supported images
+
++ raw images `dd` suitable - .img
++ compressed images img.xz lzma , img.gz gzip, img.zst zstd
+
 ## Install online OS image without ethernet
 
 wip...
